@@ -29,5 +29,10 @@ Uma ferramenta ofensiva de desenvolvida em Python para reconhecimento e mapeamen
 4. Digite o IP ou Hostname do alvo na caixa de entrada (o site de testes legítimo `scanme.nmap.org` já vem preenchido por padrão).
 5. Clique em Iniciar Scan e acompanhe a varredura cadenciada sendo desenhada no painel!
 
-🚨 Aviso Legal (Disclaimer)
+ Aviso Legal (Disclaimer)
 Este projeto foi desenvolvido estritamente para fins educacionais e testes de invasão autorizados (Hacking Ético). O uso desta ferramenta contra alvos sem permissão prévia é de total responsabilidade do usuário. Utilize sempre ambientes controlados ou alvos de teste públicos como o fornecido pelo projeto Nmap. Caso utilizado de forma maliciosa, eu Malzs, declaro que eu não tenho nenhum envolvimento e tais ações são responsabilidade do usuário e somente deste.
+
+ Contribuidores e Agradecimentos
+ 
+* Malzs (Dev Principal)
+* Google Gemini (Copiloto de IA - Refatoração e tratamento de exceções)
